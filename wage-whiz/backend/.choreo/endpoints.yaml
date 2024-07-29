@@ -1,0 +1,7 @@
+version: 0.1
+
+endpoint:
+  - name: "RESR API"
+    port: 8000
+    type: REST
+    context: /
